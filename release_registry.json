@@ -1,7 +1,7 @@
 {
   "delivery_audit": {
     "folder_counts": {
-      "manuscripts": 26,
+      "manuscripts": 27,
       "datasets": 31,
       "scripts": 17
     },
@@ -739,10 +739,7 @@
     },
     {
       "project_code": "BCP-04",
-      "title": "Mangrove Resilience Mapping from Multispectral Shoreline Surveys",
-      "repository": {
-        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-mangrove-resilience-mapping-q7v3"
-      }
+      "title": "Mangrove Resilience Mapping from Multispectral Shoreline Surveys"
     },
     {
       "project_code": "BCP-05",
