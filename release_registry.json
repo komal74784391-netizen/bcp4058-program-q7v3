@@ -1,0 +1,759 @@
+{
+  "delivery_audit": {
+    "folder_counts": {
+      "manuscripts": 27,
+      "datasets": 31,
+      "scripts": 17
+    },
+    "total_files": 77,
+    "root_file_count": 2,
+    "duplicate_people": [
+      {
+        "person_id": "TRC-1186",
+        "full_name": "Adaeze Ostrowski",
+        "paths": [
+          "datasets/TRC-1186_ostrowski.md",
+          "manuscripts/TRC-1186_ostrowski.md"
+        ]
+      }
+    ],
+    "missing_people": [
+      {
+        "person_id": "TRC-1158",
+        "full_name": "Leila Asante",
+        "expected_folder": "datasets"
+      }
+    ],
+    "misplaced_files": [
+      {
+        "path": "datasets/TRC-1081_hargrove.py",
+        "expected_folder": "scripts"
+      },
+      {
+        "path": "datasets/TRC-1186_ostrowski.md",
+        "expected_folder": "manuscripts"
+      }
+    ],
+    "stray_files": [
+      {
+        "path": "field_notes_archive.txt"
+      },
+      {
+        "path": "legacy_2019_export.csv"
+      }
+    ],
+    "unexpected_files": [
+      {
+        "path": "manuscripts/TRC-9901_haverly.md"
+      }
+    ],
+    "people": [
+      {
+        "person_id": "TRC-1011",
+        "full_name": "Amara Haddad",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1011_haddad.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1018",
+        "full_name": "Kenji Yamamoto",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1018_yamamoto.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1025",
+        "full_name": "Thandiwe Thakur",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1025_thakur.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1032",
+        "full_name": "Lukas Rivas",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1032_rivas.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1039",
+        "full_name": "Mateo Petrovic",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1039_petrovic.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1046",
+        "full_name": "Zara Vasquez",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1046_vasquez.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1053",
+        "full_name": "Priya Alvarez",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1053_alvarez.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1060",
+        "full_name": "Dmitri Andersen",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1060_andersen.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1067",
+        "full_name": "Sofia Lundgren",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1067_lundgren.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1074",
+        "full_name": "Chidi Ivanova",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1074_ivanova.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1081",
+        "full_name": "Elena Hargrove",
+        "expected_type": "script",
+        "status": "misplaced",
+        "paths": [
+          "datasets/TRC-1081_hargrove.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1088",
+        "full_name": "Rafael Halvorsen",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1088_halvorsen.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1095",
+        "full_name": "Mei Oduya",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1095_oduya.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1102",
+        "full_name": "Youssef Nakamura",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1102_nakamura.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1109",
+        "full_name": "Ingrid Delacroix",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1109_delacroix.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1116",
+        "full_name": "Nia Kaur",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1116_kaur.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1123",
+        "full_name": "Hugo Larsen",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1123_larsen.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1130",
+        "full_name": "Anika Tanaka",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1130_tanaka.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1137",
+        "full_name": "Tariq Bhattacharya",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1137_bhattacharya.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1144",
+        "full_name": "Beatriz Adeyemi",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1144_adeyemi.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1151",
+        "full_name": "Sven Ueda",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1151_ueda.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1158",
+        "full_name": "Leila Asante",
+        "expected_type": "dataset",
+        "status": "missing",
+        "paths": []
+      },
+      {
+        "person_id": "TRC-1165",
+        "full_name": "Osman Ferreira",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1165_ferreira.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1172",
+        "full_name": "Camila Solano",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1172_solano.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1179",
+        "full_name": "Jonas Escobar",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1179_escobar.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1186",
+        "full_name": "Adaeze Ostrowski",
+        "expected_type": "manuscript",
+        "status": "duplicate",
+        "paths": [
+          "datasets/TRC-1186_ostrowski.md",
+          "manuscripts/TRC-1186_ostrowski.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1193",
+        "full_name": "Marcus Navarro",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1193_navarro.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1200",
+        "full_name": "Hana Oyelaran",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1200_oyelaran.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1207",
+        "full_name": "Ravi Rahman",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1207_rahman.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1214",
+        "full_name": "Greta Strand",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1214_strand.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1221",
+        "full_name": "Kwame Huang",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1221_huang.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1228",
+        "full_name": "Isabel Mbeki",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1228_mbeki.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1235",
+        "full_name": "Niklas Leclerc",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1235_leclerc.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1242",
+        "full_name": "Fatima Ricci",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1242_ricci.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1249",
+        "full_name": "Emeka Kobayashi",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1249_kobayashi.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1256",
+        "full_name": "Clara Amari",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1256_amari.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1263",
+        "full_name": "Joaquin Achebe",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1263_achebe.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1270",
+        "full_name": "Sunita Osei",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1270_osei.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1277",
+        "full_name": "Erik Sato",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1277_sato.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1284",
+        "full_name": "Makena Vega",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1284_vega.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1291",
+        "full_name": "Tomas Duarte",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1291_duarte.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1298",
+        "full_name": "Aisha Sorensen",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1298_sorensen.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1305",
+        "full_name": "Viktor Palacios",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1305_palacios.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1312",
+        "full_name": "Lucia Silva",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1312_silva.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1319",
+        "full_name": "Femi Lindqvist",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1319_lindqvist.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1326",
+        "full_name": "Astrid Petrov",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1326_petrov.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1333",
+        "full_name": "Diego Whitfield",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1333_whitfield.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1340",
+        "full_name": "Neha Becker",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1340_becker.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1347",
+        "full_name": "Henrik Weiss",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1347_weiss.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1354",
+        "full_name": "Ayana Takahashi",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1354_takahashi.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1361",
+        "full_name": "Bastian Fenwick",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1361_fenwick.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1368",
+        "full_name": "Imani Fournier",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1368_fournier.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1375",
+        "full_name": "Rohan Correa",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1375_correa.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1382",
+        "full_name": "Saoirse Kowalski",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1382_kowalski.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1389",
+        "full_name": "Andres Nwosu",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1389_nwosu.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1396",
+        "full_name": "Keiko Mensah",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1396_mensah.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1403",
+        "full_name": "Marius Fontaine",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1403_fontaine.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1410",
+        "full_name": "Nadia Bauer",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1410_bauer.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1417",
+        "full_name": "Oscar Bergstrom",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1417_bergstrom.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1424",
+        "full_name": "Pilar Nyberg",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1424_nyberg.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1431",
+        "full_name": "Soren Quintero",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1431_quintero.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1438",
+        "full_name": "Yara Rahimi",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1438_rahimi.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1445",
+        "full_name": "Tobias Castellanos",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1445_castellanos.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1452",
+        "full_name": "Zainab Ibarra",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1452_ibarra.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1459",
+        "full_name": "Felix Chowdhury",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1459_chowdhury.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1466",
+        "full_name": "Ines Bauer",
+        "expected_type": "manuscript",
+        "status": "ok",
+        "paths": [
+          "manuscripts/TRC-1466_bauer.md"
+        ]
+      },
+      {
+        "person_id": "TRC-1473",
+        "full_name": "Kiran Okafor",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1473_okafor.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1480",
+        "full_name": "Lena Khumalo",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1480_khumalo.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1487",
+        "full_name": "Miles Dubois",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1487_dubois.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1494",
+        "full_name": "Noor Mensah",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1494_mensah.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1501",
+        "full_name": "Otto Oduro",
+        "expected_type": "dataset",
+        "status": "ok",
+        "paths": [
+          "datasets/TRC-1501_oduro.csv"
+        ]
+      },
+      {
+        "person_id": "TRC-1508",
+        "full_name": "Renata Moreau",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1508_moreau.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1515",
+        "full_name": "Santiago Marchetti",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1515_marchetti.py"
+        ]
+      },
+      {
+        "person_id": "TRC-1522",
+        "full_name": "Talia Bello",
+        "expected_type": "script",
+        "status": "ok",
+        "paths": [
+          "scripts/TRC-1522_bello.py"
+        ]
+      }
+    ]
+  },
+  "project_registry": [
+    {
+      "project_code": "BCP-01",
+      "title": "Seasonal Tidal Current Ensemble for the Lower Estuary",
+      "repository": {
+        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-tidal-current-ensemble-q7v3"
+      }
+    },
+    {
+      "project_code": "BCP-02",
+      "title": "Salinity Intrusion Modelling under Managed Flow Releases",
+      "repository": {
+        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-estuary-salinity-model-q7v3"
+      }
+    },
+    {
+      "project_code": "BCP-03",
+      "title": "Wetland Carbon Flux Reconciliation across Tidal Marsh Sites",
+      "repository": {
+        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-wetland-carbon-flux-q7v3"
+      }
+    },
+    {
+      "project_code": "BCP-04",
+      "title": "Mangrove Resilience Mapping from Multispectral Shoreline Surveys"
+    },
+    {
+      "project_code": "BCP-05",
+      "title": "Coastal Erosion Risk Scoring for Exposed Shorelines",
+      "repository": {
+        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-coastal-erosion-risk-q7v3"
+      }
+    },
+    {
+      "project_code": "BCP-06",
+      "title": "Probabilistic Storm Surge Ensembles for Emergency Planning",
+      "repository": {
+        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-storm-surge-ensemble-q7v3"
+      }
+    }
+  ]
+}
