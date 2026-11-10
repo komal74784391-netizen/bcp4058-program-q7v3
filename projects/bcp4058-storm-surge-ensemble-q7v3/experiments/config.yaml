@@ -1,0 +1,5 @@
+study:
+  seed: 2026
+  folds: 5
+  metric: rmse
+  holdout: 0.2
